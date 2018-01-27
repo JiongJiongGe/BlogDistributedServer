@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.mybatis.mapper.user.YunKaiUserMapper">
+
+	<sql id="tableName">
+		calmwang_t_user
+	</sql>
+
+	<sql id="selectColumns">
+		*
+	</sql>
+
+	<insert id="insert" parameterType="com.mybatis.domain.user.YunKaiUserModel" useGeneratedKeys="true" keyProperty="id" >
+		INSERT INTO
+		<include refid="tableName" />
+		(`user_name`, `user_phone`, `is_del`)
+		VALUES
+		(#{userName}, #{userPhone}, 0)
+	</insert>
+
+	<update id="delete">
+		UPDATE
+		<include refid="tableName" />
+		SET `is_del` = 1
+		WHERE `id` = #{id}
+	</update>
+
+
+</mapper>

@@ -1,0 +1,15 @@
+/Users/wangjiongda/Desktop/learning/mybatis_build_distributed_server/src/main/java/com/mybatis/mapper/BaseDao.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_distributed_server/src/main/java/com/mybatis/hessian/HessionExportConfig.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_distributed_server/src/main/java/com/mybatis/MybatisBuildApplication.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_distributed_server/src/main/java/com/mybatis/aop/ControllerAspect.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_distributed_server/src/main/java/com/mybatis/config/RabbitConfig.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_distributed_server/src/main/java/com/mybatis/rabbitmq/TopicRabbitConfig.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_distributed_server/src/main/java/com/mybatis/domain/user/YunKaiUserModel.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_distributed_server/src/main/java/com/mybatis/mapper/user/YunKaiUserMapper.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_distributed_server/src/main/java/com/mybatis/rabbitmq/QueueConsumer.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_distributed_server/src/main/java/com/mybatis/response/ErrorCode.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_distributed_server/src/main/java/com/mybatis/config/MybatisConfiguration.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_distributed_server/src/main/java/com/mybatis/service/impl/user/YunKaiUserServiceImpl.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_distributed_server/src/main/java/com/mybatis/config/DruidConfig.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_distributed_server/src/main/java/com/mybatis/response/RpcResult.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_distributed_server/src/main/java/com/mybatis/service/user/YunKaiUserService.java

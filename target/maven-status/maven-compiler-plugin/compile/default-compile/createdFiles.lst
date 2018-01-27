@@ -1,0 +1,16 @@
+com/mybatis/mapper/user/YunKaiUserMapper.class
+com/mybatis/mapper/BaseDao.class
+com/mybatis/MybatisBuildApplication.class
+com/mybatis/config/DruidConfig.class
+com/mybatis/rabbitmq/QueueConsumer.class
+com/mybatis/aop/ControllerAspect.class
+com/mybatis/rabbitmq/QueueConsumer$DealResult.class
+com/mybatis/config/MybatisConfiguration.class
+com/mybatis/hessian/HessionExportConfig.class
+com/mybatis/response/RpcResult.class
+com/mybatis/service/impl/user/YunKaiUserServiceImpl.class
+com/mybatis/domain/user/YunKaiUserModel.class
+com/mybatis/service/user/YunKaiUserService.class
+com/mybatis/response/ErrorCode.class
+com/mybatis/config/RabbitConfig.class
+com/mybatis/rabbitmq/TopicRabbitConfig.class
